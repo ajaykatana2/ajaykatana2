@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Ajay Katana</h1>
 <h3 align="center">A passionate Data Scientist from India who loves to work with Data</h3>
 
